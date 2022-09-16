@@ -1,0 +1,33 @@
+table, h2 {
+  min-width: 90%;
+  margin: 10px auto;
+}
+
+
+th {
+    text-align: left;
+}
+
+table,
+tr {
+  border-bottom: solid 1px;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+tr, th, td {
+    padding: 10px;
+}
+
+tr td:nth-child(5) {
+  text-align: right;
+}
+
+tfoot {
+    border-top: 2px solid;
+}
+
+.cart-remove-btn {
+  border-radius: 15px;
+  cursor: pointer;
+}

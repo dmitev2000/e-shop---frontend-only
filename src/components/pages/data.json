@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "HypreX Gaming Keyboard",
+      "picture": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500797_sd.jpg",
+      "price": 84.99,
+      "inStock": false
+    },
+    {
+      "id": 1,
+      "name": "SanDisk USB 2.0 Flash Drive 4GB",
+      "picture": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png",
+      "price": 12.99,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "MSI MAG CH130 I Gaming Chair",
+      "picture": "https://www.tradeinn.com/f/13824/138241981/msi-mag-ch130-i-gaming-chair.jpg",
+      "price": 499.99,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Playstation 5",
+      "picture": "https://i5.walmartimages.com/asr/8f8e9069-5033-433a-b06d-7ff71a28247e.69fd2da206d154f329b9bf42a50181c9.png",
+      "price": 499.99,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "AMD Ryzen™ 7 5800X3D 8-core",
+      "picture": "https://m.media-amazon.com/images/I/61Kq99IRdcL._AC_SY355_.jpg",
+      "price": 419.99,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Intel® Core™ i7-11700K 8 Cores 5.0 GHz",
+      "picture": "https://m.media-amazon.com/images/I/71idAEIDhvL._AC_SL1500_.jpg",
+      "price": 269.95,
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "name": "Razer Huntsman Mini Gaming Keyboard",
+      "picture": "https://media.gamestop.com/i/gamestop/11105808_white",
+      "price": 99.99,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "MK1 PC Mechanical Gaming Keyboards",
+      "picture": "https://c1.neweggimages.com/ProductImage/32N-00EG-00002-S01.jpg",
+      "price": 24.95,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Headphones Over-Ear",
+      "picture": "https://m.media-amazon.com/images/I/71-+0U8z-ZL._AC_SY355_.jpg",
+      "price": 19.79,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "XPCAM HD Webcam 1080P with Tripod Stand",
+      "picture": "https://m.media-amazon.com/images/I/61ZiFsDP8WL._AC_SX425_.jpg",
+      "price": 44.95,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "VersionTECH. Wired Gaming Optical Mouse",
+      "picture": "https://m.media-amazon.com/images/I/610V4l4C1aL._AC_SY355_.jpg",
+      "price": 10.99,
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "High Speed HDMI Extension Cable - 25 Feet",
+      "picture": "https://m.media-amazon.com/images/I/71GsFqNYAFS._AC_SY355_.jpg",
+      "price": 22.99,
+      "inStock": false
+    },
+    {
+      "id": 12,
+      "name": "UGREEN 4K HDMI Cable 6FT 18 Gbps",
+      "picture": "https://m.media-amazon.com/images/I/61h5BS5PKwS._SL1500_.jpg",
+      "price": 25.99,
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "name": "TENMOS M2 Wireless Gaming Mouse, 6 Buttons",
+      "picture": "https://m.media-amazon.com/images/I/71irzHDcCuL._AC_SX466_.jpg",
+      "price": 15.99,
+      "inStock": true
+    }
+  ]
+}
