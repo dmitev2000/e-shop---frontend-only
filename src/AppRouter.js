@@ -13,6 +13,8 @@ const AppRouter = () => {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
+          {/* For github pages */}
+          <Route path="/e-shop---frontend-only" element={<Home />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/favorites" element={<Favorites />} />
         </Routes>
